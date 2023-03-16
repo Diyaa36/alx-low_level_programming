@@ -1,6 +1,7 @@
 #include<stdio.h>
 /**
- *main
+ * main -question 4
+ * return: 0(succes)
  */
 int main(void)
 {
